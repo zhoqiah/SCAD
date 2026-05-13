@@ -1,7 +1,7 @@
 # SCAD: Semantic Cluster-Aware Asymmetric Disentanglement for Multi-Domain Fake News Detection
 This is an implementation.
 ## Dataset
-The splited dataset (i.e., train, val, test) are in the `MDFEND-Weibo21/data` folder.
+The splited dataset (i.e., train, val, test) are in the `data` folder.
  
 ## Code
 ### Requirements
