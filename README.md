@@ -15,7 +15,7 @@ After you download the **Weibo21** dataset, move the `train.pkl`, `val.pkl` and 
 ### Run
 You can run this model through:
 ```python
-python main.py --model_name mdfend --batchsize 32 --lr 0.0007
+python main.py --model_name scad --batchsize 32 --lr 0.0007
 ```
 ### Reference
 
