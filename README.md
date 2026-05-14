@@ -11,7 +11,7 @@ You can run `pip install -r requirements.txt` to deploy the environment quickly.
 ### pretrained_model 
 You can download pretrained model (Roberta) from https://drive.google.com/drive/folders/1y2k22iMG1i1f302NLf-bj7UEe9zwTwLR?usp=sharing and move all the files in the folder into the path `S-CAD/pretrained_model/chinese_roberta_wwm_base_ext_pytorch`.
 ### Data Preparation
-After you download the **Weibo21** dataset, move the `train.pkl`, `val.pkl` and `test.pkl` into the path `MDFEND-Weibo21/data`.
+After you download the **Weibo21** dataset, move the `train.pkl`, `val.pkl` and `test.pkl` into the path `S-CAD/data`.
 ### Run
 You can run this model through:
 ```python
